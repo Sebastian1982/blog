@@ -3,8 +3,8 @@ email: your-email@domain.com
 description: description
 baseurl: /Jekyll-Avalon
 url: http://joshuaavalon.github.io
-twitter_username: joshuaavalon
-github_username:  joshuaavalon
+twitter_username: subin
+github_username:  subin
 
 sass:
   style: compressed
